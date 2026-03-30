@@ -34,13 +34,5 @@ The backend provides a strictly RESTful API under the `/api` base path.
 | DELETE | `/api/people/:id` | Delete a person from the database |
 
 ## Screenshots
-*(Screenshots of the application in action)*
 
-### 1. Registration Form (/)
-![Registration Form](./screenshots/form.png)
-
-### 2. People List (/people)
-![People List](./screenshots/list.png)
-
-### 3. Delete Confirmation Dialog
-![Delete Confirmation](./screenshots/delete-dialog.png)
+[📸 Projeye ait tüm ekran görüntülerini (Kayıt Formu, Kişi Listesi ve Silme Onayı) incelemek için bu bağlantıya tıklayarak screenshots klasörüne gidebilirsiniz.](./screenshots/)
